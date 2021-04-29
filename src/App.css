@@ -1,0 +1,13 @@
+.main_container {
+	width: 100%;
+}
+.MuiBox-root {
+	padding: 0 important;
+}
+
+#full-width-tabpanel-0 {
+	padding: 0 !important;
+}
+.MuiTab-fullWidth {
+	padding: 25px !important;
+}
